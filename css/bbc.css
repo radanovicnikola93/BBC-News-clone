@@ -210,3 +210,54 @@ body {
 #margin-p {
     padding-bottom: 20px;
 }
+
+#sidebar-videos {
+    width: 340px;
+    float: left;
+    padding-left: 10px;
+}
+
+#sidebar-videos h1 {
+    font-weight: 400;
+    font-size: 25px;
+    padding-top: 6px;
+}
+
+#sidebar-videos .sidebar-video-content img {
+    float: left;
+    width: 120px;
+    height: 80px;
+}
+
+#sidebar-videos .sidebar-video-text {
+    margin-left: 130px;
+}
+
+
+#sidebar-videos .sidebar-video-text img {
+    width: 15px;
+    height: 15px;
+    position: relative;
+    top: 2px;
+}
+
+#sidebar-videos .sidebar-video-text a {
+    text-decoration: none;
+    color: black;
+}
+
+#sidebar-videos .sidebar-video-text h3 {
+    font-size: 17px;
+}
+
+#sidebar-videos .sidebar-video-text .sidebar-link {
+    text-decoration: none;
+    color: #B91C21;
+    border-left: 1px solid #CCCCCC;
+    padding-left: 10px;
+}
+
+#sidebar-videos .sidebar-video-text .sidebar-link:hover {
+    text-decoration: none;
+    color: #1C6AA7;
+}
