@@ -69,3 +69,59 @@ body {
     height: 25px;
     margin-top: 7px;
 }
+
+#news-header {
+    width: 100%;
+    height: 65px;
+    background-color: #B91C21;
+    float: left;
+}
+
+#news-header h1 {
+    color: white;
+    font-size: 40px;
+    font-weight: 400;
+    margin: 10px 0 0 170px;
+}
+
+#news-header a {
+    text-decoration: none;
+    width: auto;
+}
+
+#navbar {
+    width: 100%;
+    height: 40px;
+    background-color: #A71A1E;
+    float: left;
+}
+
+#navbar .navbar-section {
+    margin-left: 158px;
+    float: left;
+}
+
+#navbar .navbar-menu {
+    float: left;
+    font-weight: bold;
+    font-size: 90%;
+    padding-top: 13px;
+    height: 27px;
+}
+
+#navbar .navbar-menu a {
+    text-decoration: none;
+    color: white;
+    border-right: 1px solid #B94648;
+    padding: 0 13px;
+}
+
+#navbar .navbar-menu img {
+    width: 16px;
+    vertical-align: middle;
+}
+
+#navbar .navbar-menu .no-border {
+    border: none;
+    padding-right: 5px;
+}
